@@ -1,0 +1,89 @@
+*{
+  font-family:  Trebuchet MS;
+
+
+}
+
+.head{
+  text-align: center;
+}
+
+.places1{
+  text-align: center;
+}
+
+.tbl-full{
+  width: 100%;
+
+
+}
+
+
+
+.tbl-30{
+  width: 30%;
+}
+ td{
+  text-align: center;
+ }
+table tr th{
+
+  text-align: left;
+  border-bottom: 1px solid black;
+  padding: 1%;
+}
+.but{
+  border-spacing: 50px;
+}
+
+
+
+table tr td{
+  padding: 1%;
+   
+}
+.btn-danger {
+  background-color: #f39c12;
+  padding: 7px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.btn-success {
+    background-color: #16a085;
+  padding: 7px;
+  text-decoration: none;
+  font-weight: bold;
+}
+.btn-danger.hover {
+  background-color: #16a085;
+}
+.wrapper{
+  border: 1px solid white;
+  padding: 1%;
+  width: 80%;
+  margin: 0 auto;
+
+}
+
+.addadmin {
+  margin: 10px 0px 10px 0px;
+}
+
+.btn {
+  padding: 10px;
+  font-size: 15px;
+  color: white;
+  background: #FFB100;
+  border: none;
+  border-radius: 5px;
+}
+
+.success{
+  color: #2ed573;
+}
+.error{
+  color: #ff6348;
+}
+
+
